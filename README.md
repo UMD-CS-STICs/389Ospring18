@@ -81,15 +81,15 @@ only be used for emergencies and not class related questions (e.g., homework).
 
 Instructor:
 
-Dr. Dave Levin - dml@cs.umd.edu
+Dr. Tom Goldstein - tomg@cs.umd.edu
 
 TA(s):
 
-Cameron Payton - cpayton@umd.edu
-- Office Hours: Fridays 3:00 - 4:00 PM in ESJ 2101
+Maria McCulley - mmccull2@umd.edu
+- Office Hours: TBA
 
-Ishaan Parikh - iparikh@umd.edu
-- Office Hours: Fridays 4:00 - 5:00 PM in CSI 3118
+Sandra Sandeep - ssandeep@terpmail.umd.edu
+- Office Hours: TBA
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
