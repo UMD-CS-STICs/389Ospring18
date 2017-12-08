@@ -91,6 +91,9 @@ Maria McCulley - mmccull2@umd.edu
 Sandra Sandeep - ssandeep@terpmail.umd.edu
 - Office Hours: TBA
 
+Andi Hopkins - andihop@terpmail.umd.edu
+- Office Hours: TBA
+
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
 
