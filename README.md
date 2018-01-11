@@ -88,7 +88,7 @@ TA(s):
 Maria McCulley - mmccull2@umd.edu
 - Office Hours: TBA
 
-Sandra Sandeep - ssandeep@terpmail.umd.edu
+Sandra Sandeep - sandrasandeep01@gmail.com
 - Office Hours: TBA
 
 Andi Hopkins - andihop@terpmail.umd.edu
