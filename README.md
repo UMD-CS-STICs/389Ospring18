@@ -76,8 +76,7 @@ You may submit multiple times, but we will only view the latest submission.
 |8|Bit Manipulation|Chapter 5|
 
 ## Outside-of-class communication with course staff
-We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should
-only be used for emergencies and not class related questions (e.g., homework).
+We will interact with students outside of class in primarily two ways: in-person during office hours and Slack. Email should be used sparingly and not for class related questions (e.g., homework).
 
 Instructor:
 
