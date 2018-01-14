@@ -31,9 +31,9 @@ Your final course grade will be determined according to the following percentage
 | Percentage | Title | Description |
 | ------------- | -----|-------- |
 | 30% | Class Participation | Each class will require active participation from the students. |
-| 20% | Homework  | Weekly individual homework that require video submission of solution. |
-| 20% | Midterm | Two problems will be handed out (just like the homeworks). These problems will be more difficult than normal HW problems, but are the same format.  |
-| 30% | Final | Three problems will be handed out (just like the homeworks). These problems will be more difficult than normal HW problems, but are the same format. |
+| 20% | Homework  | Weekly individual homework assignments must be completed online. Homework will also include reading prep materials for the following class. |
+| 20% | Midterm | Class facilitators will conduct technical phone interviews. These problems will be of the same format and difficulty as the HW problems. |
+| 30% | Final | Class facilitators will conduct technical phone interviews. These problems will be of the same format and difficulty as the HW problems. |
 
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests
 will be considered afterwards.
