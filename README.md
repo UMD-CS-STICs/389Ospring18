@@ -48,17 +48,17 @@ ICI = In-Class Interviews
 | 2 (2/2) | ICI (Behavioral) + Big O + Bit Manipulaition |  |
 | 3 (2/9) | ICI (String Manipulation) | HW2 OUT |
 | 4 (2/16) | ICI (Arrays) | HW2 DUE, HW3 OUT |
-| 5 (2/23) | ICI (Sorting + Searching) |  |
-| 6 (3/2) | ICI (Linked Lists) |  |
-| 7 (3/9) | ICI (Graphs 1) | |
+| 5 (2/23) | ICI (Sorting + Searching) | HW3 DUE, HW4 OUT |
+| 6 (3/2) | ICI (Linked Lists) | HW4 DUE, HW5 OUT |
+| 7 (3/9) | ICI (Graphs 1) | HW5 DUE |
 | 8 (3/16) | ICI (Graphs 2) |  |
 | 9 (3/23) | SPRING BREAK |  |
-| 10 (3/30) | ICI (Trees) |  |
-| 11 (4/6) | Graphs (DFS + BFS) + Sample Interview |  |
-| 12 (4/13) | Dynamic Programming + Sample Interview |
-| 13 (4/20) | ICI (Dynamic Programming)  + Finals Info |  |
-| 14 (4/27) | ICI (Misc.) / Prepare for Final |  |
-| 15 (5/4) | Office Hours |  |
+| 10 (3/30) | ICI (Trees) | HW6 OUT |
+| 11 (4/6) | Graphs (DFS + BFS) + Sample Interview | HW6 DUE, HW7 OUT |
+| 12 (4/13) | Dynamic Programming + Sample Interview | HW7 DUE, HW8 OUT |
+| 13 (4/20) | ICI (Dynamic Programming)  + Finals Info | HW8 DUE, Finals Sign-Up |
+| 14 (4/27) | ICI (Misc.) / Prepare for Final | Finals Week |
+| 15 (5/4) | Office Hours | Finals Week |
 
 ## Homework
 Homework must be uploaded to YouTube __unlisted__. To submit your homework, upload a simple text file containing the link to your video to the submit server. The time limit for the video will be given for each homework assignment. Homework may not be submitted by any other means (e.g., please do not email your homework to us). It is your responsibility to verify that your video plays back properly before submitting. All homework is due by the start of the next class after it is assigned. This is a hard deadline, as we hand back solutions to the previous homework each class.
