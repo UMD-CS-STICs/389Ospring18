@@ -44,20 +44,21 @@ ICI = In-Class Interviews
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (9/1) | Big O + Sample Interview | HW1 OUT |
-| 2 (9/8) | ICI (String Manipulation) | HW1 DUE, HW2 OUT |
-| 3 (9/15) | ICI (Sorting + Searching) | HW2 DUE, HW3 OUT |
-| 4 (9/22) | ICI (Linked Lists) | HW3 DUE, HW4 OUT |
-| 5 (9/29) | Graphs (DFS + BFS) + Sample Interview | HW4 DUE, HW5 OUT |
-| 6 (10/6) | ICI (Graphs 1) | HW5 DUE, MIDTERM OUT |
-| 7 (10/13) | ICI (Graphs 2) | |
-| 8 (10/20) | ICI (Trees) | MIDTERM DUE |
-| 9 (10/27) | Dynamic Programming + Sample Interview | HW6 OUT |
-| 10 (11/3) | ICI (Dynamic Programming) | HW6 DUE, HW7 OUT |
-| 11 (11/10) | Bit Manipulation + Sample Interview | HW7 DUE, HW8 OUT |
-| 12 (11/17) | ICI (Misc.) | HW8 DUE, FINAL OUT |
-| 13 (12/1) | ICI (Misc.) |  |
-| 14 (12/8) | ICI (Misc.) | FINAL DUE |
+| 1 (1/26) | Big O + Sample Interview | HW1 OUT |
+| 2 (2/2) | ICI (String Manipulation) | HW1 DUE, HW2 OUT |
+| 3 (2/9) | ICI (Sorting + Searching) | HW2 DUE, HW3 OUT |
+| 4 (2/16) | ICI (Linked Lists) | HW3 DUE, HW4 OUT |
+| 5 (2/23) | Graphs (DFS + BFS) + Sample Interview | HW4 DUE, HW5 OUT |
+| 6 (3/2) | ICI (Graphs 1) | HW5 DUE, MIDTERM OUT |
+| 7 (3/9) | ICI (Graphs 2) | |
+| 8 (3/16) | ICI (Trees) | MIDTERM DUE |
+| 9 (3/23) | SPRING BREAK |  |
+| 10 (3/30) | Dynamic Programming + Sample Interview | HW6 OUT |
+| 11 (4/6) | ICI (Dynamic Programming) | HW6 DUE, HW7 OUT |
+| 12 (4/13) | Bit Manipulation + Sample Interview | HW7 DUE, HW8 OUT |
+| 13 (4/20) | ICI (Misc.) | HW8 DUE, FINAL OUT |
+| 14 (4/27) | ICI (Misc.) |  |
+| 15 (5/4) | ICI (Misc.) | FINAL DUE |
 
 ## Homework
 Homework must be uploaded to YouTube __unlisted__. To submit your homework, upload a simple text file containing the link to your video to the submit server. The time limit for the video will be given for each homework assignment. Homework may not be submitted by any other means (e.g., please do not email your homework to us). It is your responsibility to verify that your video plays back properly before submitting. All homework is due by the start of the next class after it is assigned. This is a hard deadline, as we hand back solutions to the previous homework each class.
