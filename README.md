@@ -77,7 +77,7 @@ You may submit multiple times, but we will only view the latest submission.
 |8|Bit Manipulation|Chapter 5|
 
 ## Outside-of-class communication with course staff
-We will interact with students outside of class in primarily two ways: in-person during office hours and Slack. Email should be used sparingly and not for class related questions (e.g., homework).
+We will interact with students outside of class in primarily two ways: in-person during office hours and Slack. Email should be used sparingly and not for class related questions (e.g., homework). Office hours are by appointment. Email or Slack message one of the TAs to set up a time to meet.
 
 Instructor:
 
@@ -86,13 +86,8 @@ Dr. Tom Goldstein - tomg@cs.umd.edu
 TA(s):
 
 Maria McCulley - mmccull2@umd.edu
-- Office Hours: TBA
-
 Sandra Sandeep - sandrasandeep01@gmail.com
-- Office Hours: TBA
-
 Andi Hopkins - andihop@terpmail.umd.edu
-- Office Hours: TBA
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
