@@ -61,20 +61,22 @@ ICI = In-Class Interviews
 | 15 (5/4) | Office Hours | Finals Week |
 
 ## Homework
-Homework must be uploaded to YouTube __unlisted__. To submit your homework, upload a simple text file containing the link to your video to the submit server. The time limit for the video will be given for each homework assignment. Homework may not be submitted by any other means (e.g., please do not email your homework to us). It is your responsibility to verify that your video plays back properly before submitting. All homework is due by the start of the next class after it is assigned. This is a hard deadline, as we hand back solutions to the previous homework each class.
+Homeworks will consist of solving a given coding problem online on HankerRank / LeetCode. Each student should take a screen recording of him/her solving the problem with https://screencast-o-matic.com/. Each student should upload his/her recording to Google Drive and share a link to the video with their designated TA. Homework is due at 10:55AM every Friday (immediately prior to class). There will be a 20% penalty per day for late submissions. Grading information is below.
 
-You may submit multiple times, but we will only view the latest submission.
+Effort
+- 30 points
 
-|HW #|Topic|Reading|
-|----|----|----|
-|1|Big O|Chapter VI|
-|2|String Manipulation|Chapter 1|
-|3|Sorting + Searching|Chapter 10|
-|4|Linked List|Chapter 2|
-|5|Stacks + Queues|Chapter 3|
-|6|Trees + Graphs|Chapter 4|
-|7|Dynamic Programming|Chapter 8|
-|8|Bit Manipulation|Chapter 5|
+Test Cases
+- 30 points for passing test cases
+
+Timing 
+- 30 points for solving it in the allotted amount of time
+- Incrementally decreasing credit for solving in up to twice the allotted amount of time
+- 0 credit for academic dishonesty or not solving in up to twice the allotted amount of time
+
+Time and Space Complexity
+- 10 points for optimal solution
+- Incrementally decreasing credit for worse time and space complexities. Points vary per problem
 
 ## Outside-of-class communication with course staff
 We will interact with students outside of class in primarily two ways: in-person during office hours and Slack. Email should be used sparingly and not for class related questions (e.g., homework). Office hours are by appointment. Email or Slack message one of the TAs to set up a time to meet.
