@@ -94,6 +94,11 @@ Andi Hopkins - andihop@terpmail.umd.edu
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
 
+As an addition to the regular University policy, everyone is entitled to one free unexcused absence. 
+
+## Late Policy
+Students should arrive no more than ten minutes after 11AM in order to receive full credit for class participation.
+
 ## Disability Support Accommodations
 
 See the section titled "Accessibility" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
