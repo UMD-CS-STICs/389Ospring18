@@ -12,12 +12,13 @@ Recommended: [_Cracking the Coding Interview_](https://www.amazon.com/Cracking-C
 
 ## Topics Covered
 - Big O
+- Bit Manipulation
 - String Manipulation
+- Arrays
 - Sorting and Searching
 - Linked Lists
-- Stacks and Queues
 - Trees and Graphs
-- Bit Manipulation
+- Recursion
 - Dynamic Programming
 - Testing
 
@@ -54,7 +55,7 @@ ICI = In-Class Interviews
 | 8 (3/16) | ICI (Graphs 2) | Midterm Week |
 | 9 (3/23) | SPRING BREAK |  |
 | 10 (3/30) | ICI (Trees) | HW7 OUT |
-| 11 (4/6) | Graphs (DFS + BFS) + Sample Interview | HW7 DUE, HW8 OUT |
+| 11 (4/6) | Recursion | HW7 DUE, HW8 OUT |
 | 12 (4/13) | Dynamic Programming + Sample Interview | HW8 DUE |
 | 13 (4/20) | ICI (Dynamic Programming)  + Finals Info | Finals Sign-Up |
 | 14 (4/27) | ICI (Misc.) / Prepare for Final | Finals Week |
