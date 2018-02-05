@@ -62,7 +62,7 @@ ICI = In-Class Interviews
 | 15 (5/4) | Office Hours | Finals Week |
 
 ## Homework
-Homeworks will consist of solving a given coding problem online on HankerRank / LeetCode. Each student should take a screen recording of him/her solving the problem with https://screencast-o-matic.com/. Each student should upload his/her recording to Google Drive and share a link to the video with their designated TA. Homework is due at 10:55AM every Friday (immediately prior to class). There will be a 20% penalty per day for late submissions. Grading information is below.
+Homeworks will consist of solving a given coding problem online on HankerRank / LeetCode. Each student should take a screen recording of him/her solving the problem with https://screencast-o-matic.com/, or similar recording software. Each student should upload his/her recording to Google Drive and share a link to the video with their designated TA. Homework is due at 10:55AM every Friday (immediately prior to class). There will be a 20% penalty per day for late submissions. Grading information is below.
 
 Effort
 - 30 points
