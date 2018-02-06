@@ -44,5 +44,10 @@ We will be grading on four different aspects:
   - 10 points for optimal solution
   - Incrementally decreasing credit for worse time and space complexities. Points will be out after the due date.
 
+## Extra Credit
+In 1-2 paragraphs, explain how you would add two numbers without using arithmetic operators (i.e., +, -, x, /). Then, answer for the following: How would you implement this function for many additions? What about subtraction, multiplication, and division? 
+
+When you are writing your paragraph, write enough that we know you understand the problem and its applications. Use what you learned from class today to help answer the question. The quality of your writing factors into the amount of extra credit you receive. Hand in your work to your graders via Slack as you would regular homework, with the label “Extra Credit Week 2.” Good luck!
+
 ## Academic Honesty
 We would like to remind you that this class is about YOU and improving YOUR interview skills. In a real interview (and for your midterm/final) you will have to think under time pressure. Given that, we know that you can look up the problem before hand, and solve it based on that. We are trusting you in being honest and doing your best, as we can give you feedback should we see you struggling with the problem.
