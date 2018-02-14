@@ -45,18 +45,18 @@ ICI = In-Class Interviews
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (1/26) | Introduction | HW1 OUT (Resumes) |
-| 2 (2/2) | ICI (Behavioral) + Big O + Bit Manipulaition | HW2 OUT |
-| 3 (2/9) | ICI (String Manipulation) | HW2 DUE, HW3 OUT |
-| 4 (2/16) | ICI (Arrays) | HW3 DUE, HW4 OUT |
-| 5 (2/23) | ICI (Sorting + Searching) | HW4 DUE, HW5 OUT |
-| 6 (3/2) | ICI (Linked Lists) | HW5 DUE, HW6 OUT |
-| 7 (3/9) | ICI (Graphs 1) | HW6 DUE |
+| 1 (1/26) | Introduction | HW0 OUT (Resumes) |
+| 2 (2/2) | ICI (Behavioral) + Big O + Bit Manipulaition | HW1 OUT |
+| 3 (2/9) | ICI (String Manipulation) | HW1 DUE, HW2 OUT |
+| 4 (2/16) | ICI (Arrays) | HW2 DUE, HW3 OUT |
+| 5 (2/23) | ICI (Sorting + Searching) | HW3 DUE, HW4 OUT |
+| 6 (3/2) | ICI (Linked Lists) | HW4 DUE, HW5 OUT |
+| 7 (3/9) | ICI (Graphs 1) | HW5 DUE |
 | 8 (3/16) | ICI (Graphs 2) | Midterm Week |
 | 9 (3/23) | SPRING BREAK |  |
-| 10 (3/30) | ICI (Trees) | HW7 OUT |
-| 11 (4/6) | Recursion | HW7 DUE, HW8 OUT |
-| 12 (4/13) | Dynamic Programming + Sample Interview | HW8 DUE |
+| 10 (3/30) | ICI (Trees) | HW6 OUT |
+| 11 (4/6) | Recursion | HW6 DUE, HW7 OUT |
+| 12 (4/13) | Dynamic Programming + Sample Interview | HW7 DUE |
 | 13 (4/20) | ICI (Dynamic Programming)  + Finals Info | Finals Sign-Up |
 | 14 (4/27) | ICI (Misc.) / Prepare for Final | Finals Week |
 | 15 (5/4) | Office Hours | Finals Week |
