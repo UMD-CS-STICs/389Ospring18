@@ -59,13 +59,16 @@ We will be grading on four different aspects:
 In 1-2 paragraphs, explain how you would, given an array consisting of non-negative integers, count the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle. You can find the problem [here](https://leetcode.com/problems/valid-triangle-number/description/). In your explanation, make sure that you discuss your Time and Space complexities, and the fundamental properties of the problem. What makes this question unique? What properties of these numbers can we use?
 
 #### Examples:
-Input: [2,2,3,4]
-Output: 3
-Explanation:
-Valid combinations are: 
-2,3,4 (using the first 2)
-2,3,4 (using the second 2)
-2,2,3
+  - Input: [2,2,3,4]
+  - Output: 3
+  - Explanation:
+    Valid combinations are: 
+
+    2,3,4 (using the first 2)
+
+    2,3,4 (using the second 2)
+
+    2,2,3
 
 When you are writing your paragraph, write enough that we know you understand the problem and its applications. Use what you learned from class to help answer the question. The quality of your writing factors into the amount of extra credit you receive. Hand in your work to your graders via Slack as you would regular homework, with the label “Extra Credit Week 4.” Good luck!
 
