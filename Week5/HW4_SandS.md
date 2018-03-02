@@ -32,7 +32,7 @@ You will get 60 minutes (1 hour) to complete the two problems listed above. The 
  
  ## Complexity
  
-The optimal complexity for both homeworks is O(n) time, O(1) space. The scoring for each problem is as such:
+The scoring for this problem is:
   - Time
     - O(nlogn), full points
     - O(n^2), -5 points
