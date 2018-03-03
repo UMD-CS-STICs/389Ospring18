@@ -57,7 +57,7 @@ The scoring for problem 2 is as follows:
 ## Due Date
 Homework is due at 10:55AM on Friday, 3/9/2018 (immediately prior to class).
 
-There will be a 20% penalty per day for late submissions. The last time to hand in anything for credit is at 10:55AM on Wednesday, 3/7/2018.
+There will be a 20% penalty per day for late submissions. The last time to hand in anything for credit is at 10:55AM on Wednesday, 3/14/2018.
 
 ## Grading
 We will be grading on four different aspects:
