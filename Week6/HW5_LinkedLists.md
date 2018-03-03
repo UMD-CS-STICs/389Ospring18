@@ -76,7 +76,7 @@ We will be grading on four different aspects:
 ## Extra Credit
 Explain floyd's cycle detection algorithm for finding the beginning of a cycle in a linked list.
 
-The quality of your writing factors into the amount of extra credit you receive. Hand in your work to your graders via Slack as you would regular homework, with the label “Extra Credit Week 4.” Good luck!
+The quality of your writing factors into the amount of extra credit you receive. Hand in your work to your graders via Slack as you would regular homework, with the label “Extra Credit Week 5.” Good luck!
 
 EXTRA CREDIT IS DUE WHEN HOMEWORK IS DUE. WE WILL NOT ACCEPT LATE EXTRA CREDITS.
 
