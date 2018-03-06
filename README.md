@@ -52,7 +52,7 @@ ICI = In-Class Interviews
 | 5 (2/23) | ICI (Sorting + Searching) | HW3 DUE, HW4 OUT |
 | 6 (3/2) | ICI (Linked Lists) | HW4 DUE, HW5 OUT |
 | 7 (3/9) | ICI (Graphs 1) | HW5 DUE |
-| 8 (3/16) | No Class | Midterm Week |
+| 8 (3/16) | NO CLASS | Midterm Week |
 | 9 (3/23) | SPRING BREAK |  |
 | 10 (3/30) | ICI (Trees) | HW6 OUT |
 | 11 (4/6) | Recursion | HW6 DUE, HW7 OUT |
