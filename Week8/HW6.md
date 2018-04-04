@@ -1,6 +1,6 @@
 # Homework
 - [Tree Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)
-- Code DFS and BFS **recursively** on a Google Doc (instructions below)
+- Code DFS and BFS **recursively** or **without a Stack or Queue** on a Google Doc (instructions below)
 
   
 ## Instructions
